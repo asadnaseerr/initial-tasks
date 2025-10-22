@@ -2,3 +2,20 @@
 .DS_Store
 Task 17/yolov3-face.weights
 Task 17/yolov3-face.cfg
+.venv/
+/Users/omen/Desktop/Aware Robotics Intern/.venv
+
+.DS_Store
+.venv/
+__pycache__/
+runs/
+*.pt
+*.jpg
+*.png
+*.mp4
+*.mov
+*.cache
+*.zip
+yolov5
+*.weights
+*.cfg
