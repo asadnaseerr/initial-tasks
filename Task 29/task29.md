@@ -15,7 +15,6 @@
     -   [Applications](#applications-of-hyperspectral-imaging)
 5.  [MSI vs. HSI: A Detailed Comparison](#msi-vs-hsi-a-detailed-comparison)
 6.  [Conclusion](#conclusion)
-7.  [Resources & Further Reading](#resources--further-reading)
 
 ---
 
